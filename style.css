@@ -25,7 +25,7 @@ body{
     display: flex;
     justify-content: center;
     background: linear-gradient(89deg, rgb(24, 24, 24),  rgb(39, 39, 39), rgb(39, 39, 39));
-    height: 100vh;
+    height: 80vh;
     align-items: center;
     /* overflow-x: scroll; */
 }
