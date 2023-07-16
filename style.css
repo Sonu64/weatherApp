@@ -43,7 +43,7 @@ body{
     transition: 0.5s ease;
 }
 input{
-    width: 270px;
+    width: 320px;
     background: transparent;
     border: none;
     border-bottom: 3px solid white;
